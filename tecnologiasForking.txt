@@ -1,5 +1,10 @@
 TECNOLOGÍAS
 
 Tecnologías conocidas:
+git 
+github
 
 Tecnologías que deseo aprender:
+java 
+docker
+duolingo
