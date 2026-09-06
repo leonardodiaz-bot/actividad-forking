@@ -2,7 +2,7 @@ ACTUALIZACIÓN TECNOLÓGICA-PARALELO A
 
 Repositorio principal para práctica de Forking Workflow.
 
-Datos del estudiante:
-Nombre:
-Carrera:
-Semestre:
+Datos del estudiante: 
+Nombre: Diaz saavedra leonardo Adrian 
+Carrera: ing en sistemas 
+Semestre: cuarto
