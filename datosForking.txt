@@ -6,3 +6,4 @@ Datos del estudiante:
 Nombre: Diaz saavedra leonardo Adrian 
 Carrera: ing en sistemas 
 Semestre: cuarto
+mencion: direccion y gention empresarial
